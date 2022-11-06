@@ -11,5 +11,5 @@
 * 10:30 - 11:30 skim react calendar video: 
   * https://www.youtube.com/watch?v=KUKyTRYGrnU
   * https://www.bezkoder.com/react-image-upload-preview/ upload images with react
-* 11:30 - 12:30 skim react calendar app from scratch video. USE/REVISIT THIS ONE!!! https://www.youtube.com/watch?v=wyVFo2X5IM8
+* 11:30 - 12:50 skim && watch react calendar app from scratch video. USE/REVISIT THIS ONE!!! https://www.youtube.com/watch?v=wyVFo2X5IM8 
 
